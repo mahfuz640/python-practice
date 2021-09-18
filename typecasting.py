@@ -4,3 +4,4 @@ a=input()
 b=input()
 10
 a*b
+
