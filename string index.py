@@ -16,4 +16,4 @@ Traceback (most recent call last):
 TypeError: string indices must be integers
 >>> a[2:5]
 'ngl'
->>> 
+>>>a='
