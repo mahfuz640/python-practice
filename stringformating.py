@@ -32,4 +32,21 @@ bangla
 English
 >>> print('My favorit language are',a,'and',b)
 My favorit language are bangla and English
+>>> #uporer program ar a ar b te duti language ar nam  hisheb input nise tarpor akta shundor line print diyese
+>>> 
+>>> 
+>>> 
+>>> #same kazta amra string diye o use korte pari
+>>> a='Bangla'
+>>> a=input()
+Python
+>>> b=input()
+Javascript
+>>> print('My favorit language is :%s and %s'(a,b))
+Traceback (most recent call last):
+  File "<pyshell#30>", line 1, in <module>
+    print('My favorit language is :%s and %s'(a,b))
+TypeError: 'str' object is not callable
+>>> print('My favorit language is :%s and %s'%(a,b))
+My favorit language is :Python and Javascript
 >>> 
