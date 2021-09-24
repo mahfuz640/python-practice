@@ -10,4 +10,11 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> a+b
 'Bangladesh'
 >>> #akhon amra 3ta variable nibo abong tader add korbo
+>>> x='Barishal'
+>>> y='Dhaka'
+>>> z='sylhet'
+>>> x+'-'+y'-'+z
+SyntaxError: invalid syntax
+>>> x+'-'+y+'-'+z
+'Barishal-Dhaka-sylhet'
 >>> 
