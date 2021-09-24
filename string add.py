@@ -17,4 +17,13 @@ Type "help", "copyright", "credits" or "license()" for more information.
 SyntaxError: invalid syntax
 >>> x+'-'+y+'-'+z
 'Barishal-Dhaka-sylhet'
+>>> amra kintu ay kazta aro shohoz a korte partam
+SyntaxError: invalid syntax
+>>> amra kintu ay kazta aro shohoz a korte partam join() function diye
+SyntaxError: invalid syntax
+>>> x='Barishal'
+>>> y='Dhaka'
+>>> z='sylhet'
+>>> '-'.join((x,y,z))
+'Barishal-Dhaka-sylhet'
 >>> 
