@@ -11,4 +11,8 @@ Traceback (most recent call last):
 NameError: name 'count' is not defined
 >>> a.count('a')
 2
+>>> #hoito thik vhabe clear hote parlam na so amra arekta program kore dekhi
+>>> sentence='i love my father and mother'
+>>> sentence.count('e')
+3
 >>> 
