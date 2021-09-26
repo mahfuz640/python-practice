@@ -15,4 +15,6 @@ NameError: name 'count' is not defined
 >>> sentence='i love my father and mother'
 >>> sentence.count('e')
 3
->>> 
+>>> sentence.count('e',1,7)
+1
+>>> #akane dekha jasse 1 diye amra string ar index 1 number ar 7 number ar moddhe koita e ase ta jachai kora
