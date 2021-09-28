@@ -19,4 +19,23 @@ Traceback (most recent call last):
 AttributeError: 'str' object has no attribute 'sprip'
 >>> sentace.strip('?')
 'How can a clam cram in a clean cream can'
+>>> #amra alhon string ar faka jaiga gulor maddhome string ke alada krre felbo i mean tukra rukta kore felbo tar jonno amrader splite string use korte hobe
+>>> #tar jonno amra split () funtion use korbo
+>>> sentance.split(' ')
+Traceback (most recent call last):
+  File "<pyshell#14>", line 1, in <module>
+    sentance.split(' ')
+NameError: name 'sentance' is not defined
+>>> sentance.split('')
+Traceback (most recent call last):
+  File "<pyshell#15>", line 1, in <module>
+    sentance.split('')
+NameError: name 'sentance' is not defined
+>>> sentace.split('')
+Traceback (most recent call last):
+  File "<pyshell#16>", line 1, in <module>
+    sentace.split('')
+ValueError: empty separator
+>>> sentace.split(' ')
+['How', 'can', 'a', 'clam', 'cram', 'in', 'a', 'clean', 'cream', 'can?']
 >>> 
