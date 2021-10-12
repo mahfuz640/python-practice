@@ -9,4 +9,7 @@ SyntaxError: invalid syntax
 >>> a.extend(['a','b','c',6546.54])
 >>> a
 ['rice', 'potato', 343, 'cucumber', 'finger', 464.45564, 'new', 'a', 'b', 'c', 6546.54]
+>>> #akhon ashe ato jhamelar kintu kono dorkar e nai amra chaile kono list k o list ar shate jog korte pari
+>>> a+['s','d','h']
+['rice', 'potato', 343, 'cucumber', 'finger', 464.45564, 'new', 'a', 'b', 'c', 6546.54, 's', 'd', 'h']
 >>> 
