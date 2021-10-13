@@ -5,4 +5,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> del a[-1]
 >>> a
 [1, 2, 3, 4, 5, 1, 4, 5]
+>>> #amra same kazta pop function diye o korte pari
+>>> a.pop()
+5
+>>> a
+[1, 2, 3, 4, 5, 1, 4]
 >>> 
