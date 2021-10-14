@@ -6,4 +6,8 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ['onion', 'potato', 'ginger', 'cucumber', 1, 3.1416]
 >>> type (b)
 <class 'list'>
->>> 
+>>> 4+5
+a=45+655
+a
+
+
